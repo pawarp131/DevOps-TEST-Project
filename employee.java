@@ -1,6 +1,6 @@
 class Employee{
 
-<<<<<<< HEAD
+int = 3;
 int = 2;
 =======
 int = 1;
