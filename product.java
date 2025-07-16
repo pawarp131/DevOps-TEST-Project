@@ -1,3 +1,3 @@
 function greet() {
-    console.log("Hello, Pune!");
+    console.log("Hello, world!");
 }
